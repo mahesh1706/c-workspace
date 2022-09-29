@@ -18,7 +18,7 @@ int main()
 	
 	 ci = p * (pow(1+r/100, t) - 1);
 	
-	 printf("Simple Interest = %0.3f\n", si);
+	 printf("Simple hi Interest = %0.3f\n", si);
 	 printf("Compound Interest = %0.3f", ci);
 	 getch();
 	 return(0);
